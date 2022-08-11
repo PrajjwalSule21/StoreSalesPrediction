@@ -1,0 +1,21 @@
+2022-08-10	13:26:47	INFOR	Cleaning the Item_Fat_Content column
+2022-08-10	13:26:47	INFO	Removing Duplicates from Dataframe
+2022-08-10	13:26:47	INFO	Duplicate values have been dropped
+2022-08-10	13:26:48	INFOR	Cleaning the Item_Fat_Content column
+2022-08-10	13:26:48	INFO	Removing Duplicates from Dataframe
+2022-08-10	13:26:48	INFO	Duplicate values have been dropped
+2022-08-10	14:30:05	INFOR	Cleaning the Item_Fat_Content column
+2022-08-10	14:30:05	INFO	Removing Duplicates from Dataframe
+2022-08-10	14:30:05	INFO	Duplicate values have been dropped
+2022-08-10	14:30:07	INFOR	Cleaning the Item_Fat_Content column
+2022-08-10	14:30:07	INFO	Removing Duplicates from Dataframe
+2022-08-10	14:30:07	INFO	Duplicate values have been dropped
+2022-08-10	14:30:10	INFOR	Cleaning the Item_Fat_Content column
+2022-08-10	14:30:10	INFO	Removing Duplicates from Dataframe
+2022-08-10	14:30:10	INFO	Duplicate values have been dropped
+2022-08-10	14:30:11	INFOR	Cleaning the Item_Fat_Content column
+2022-08-10	14:30:11	INFO	Removing Duplicates from Dataframe
+2022-08-10	14:30:11	INFO	Duplicate values have been dropped
+2022-08-10	16:31:46	INFOR	Cleaning the Item_Fat_Content column
+2022-08-10	16:31:46	INFO	Removing Duplicates from Dataframe
+2022-08-10	16:31:47	INFO	Duplicate values have been dropped

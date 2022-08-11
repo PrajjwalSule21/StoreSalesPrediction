@@ -1,0 +1,21 @@
+2022-08-10	14:30:10	INFO	Enter get_best_model method in ModelBuilder class 
+2022-08-10	14:30:11	INFO	Entered into best_params for xg boost class
+2022-08-10	16:31:42	INFO	Xg_boost modelling has started
+2022-08-10	16:31:45	INFO	Best xg_boost parameters are :{'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 300}
+2022-08-10	16:31:45	INFO	XGboost modelling has been completed
+2022-08-10	16:31:45	INFO	Get the prediction of XGbRegressor Model
+2022-08-10	16:31:45	INFO	Get the Root Mean Squared Error of XGbRegressor Model
+2022-08-10	16:31:45	INFO	Root Mean Squared Error of Xgboost model is 1138.2400966131902
+2022-08-10	16:31:45	INFO	Entered into best_params_class for random_forest Regressor
+2022-08-10	17:40:23	INFO	Grid_Search cv is performed 
+2022-08-10	17:40:24	INFO	Random forest modelling fitting has started
+2022-08-10	17:40:33	INFO	Best random forest parameters are {'criterion': 'squared_error', 'max_depth': 890, 'max_features': 'auto', 'min_samples_leaf': 10, 'min_samples_split': 2, 'n_estimators': 600}
+2022-08-10	17:40:33	INFO	Random Forest Modelling completed
+2022-08-10	17:40:33	INFO	Get the prediction of RandomForestRegressor Model
+2022-08-10	17:40:34	INFO	Get the Root Mean Squared Error of RandomForestRegressor Model
+2022-08-10	17:40:34	INFO	Root Mean Squared Error of random forest is 1095.242758927215
+2022-08-10	17:40:34	INFO	Selection of best model 
+2022-08-10	17:40:34	INFO	Whomever the RMSE is low we will select that model
+2022-08-10	17:40:34	INFO	Best model selection is done
+2022-08-10	17:40:34	INFO	Saving model as pickle file
+2022-08-10	17:40:34	INFO	Best model saved in file ,Best model is:Random_forest_regressor

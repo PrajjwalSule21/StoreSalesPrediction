@@ -1,0 +1,56 @@
+2022-08-10	13:26:47	INFO	loading the dataset into pandas dataframe
+2022-08-10	13:26:47	INFO	Raw Train data got loaded in dataframe
+2022-08-10	13:26:47	INFO	loading the dataset into pandas dataframe
+2022-08-10	13:26:47	INFO	Raw Train data got loaded in dataframe
+2022-08-10	13:26:47	INFO	loading the dataset into pandas dataframe
+2022-08-10	13:26:47	INFO	Raw Train data got loaded in dataframe
+2022-08-10	13:26:47	INFO	loading the dataset into pandas dataframe
+2022-08-10	13:26:47	INFO	Raw Train data got loaded in dataframe
+2022-08-10	13:26:48	INFO	loading the dataset into pandas dataframe
+2022-08-10	13:26:48	INFO	Raw Train data got loaded in dataframe
+2022-08-10	13:26:48	INFO	loading the dataset into pandas dataframe
+2022-08-10	13:26:48	INFO	Raw Train data got loaded in dataframe
+2022-08-10	13:26:48	INFO	loading the dataset into pandas dataframe
+2022-08-10	13:26:48	INFO	Raw Train data got loaded in dataframe
+2022-08-10	13:26:48	INFO	loading the dataset into pandas dataframe
+2022-08-10	13:26:48	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:05	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:05	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:05	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:05	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:05	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:05	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:05	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:05	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:07	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:07	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:07	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:07	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:07	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:07	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:07	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:07	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:10	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:10	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:10	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:10	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:10	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:10	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:10	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:10	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:11	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:11	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:11	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:11	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:11	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:11	INFO	Raw Train data got loaded in dataframe
+2022-08-10	14:30:11	INFO	loading the dataset into pandas dataframe
+2022-08-10	14:30:11	INFO	Raw Train data got loaded in dataframe
+2022-08-10	16:31:46	INFO	loading the dataset into pandas dataframe
+2022-08-10	16:31:46	INFO	Raw Train data got loaded in dataframe
+2022-08-10	16:31:46	INFO	loading the dataset into pandas dataframe
+2022-08-10	16:31:46	INFO	Raw Train data got loaded in dataframe
+2022-08-10	16:31:46	INFO	loading the dataset into pandas dataframe
+2022-08-10	16:31:46	INFO	Raw Train data got loaded in dataframe
+2022-08-10	16:31:47	INFO	loading the dataset into pandas dataframe
+2022-08-10	16:31:47	INFO	Raw Train data got loaded in dataframe

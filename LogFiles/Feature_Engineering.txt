@@ -1,0 +1,182 @@
+2022-08-10	13:26:47	INFO	Training Feature selection is start
+2022-08-10	13:26:47	INFO	Outlier treatment of Item_Visibility column
+2022-08-10	13:26:47	INFO	Training Data Missing value imputation is start
+2022-08-10	13:26:47	INFO	Training Data encoding has been started
+2022-08-10	13:26:47	INFO	Impute the Missing values on temporary basis
+2022-08-10	13:26:47	INFO	Initialize the transformer with OneHotEncoding for training data
+2022-08-10	13:26:47	INFO	Apply the training data transformer on X_train and X_test
+2022-08-10	13:26:47	INFO	Making the Train and Test Array of training data seperately 
+2022-08-10	13:26:47	INFO	Join those train and test array into one complete array 
+2022-08-10	13:26:47	INFO	Make a dataframe with that complete array of encoded training data
+2022-08-10	13:26:47	INFO	Training Data Enconding is completed
+2022-08-10	13:26:47	INFO	Remove those temporary imputers from Item_Weight and Outlet_Size
+2022-08-10	13:26:47	INFO	Initalize KNN tranformer for missing value imputation
+2022-08-10	13:26:47	INFO	Apply the KNN tranformer on X_train and X_test
+2022-08-10	13:26:48	INFO	Make a new data frame for training data
+2022-08-10	13:26:48	INFO	Training Data Missing value imputation is complete
+2022-08-10	13:26:48	INFO	Getting the 25% and 75% value
+2022-08-10	13:26:48	INFO	Get the IQR Value
+2022-08-10	13:26:48	INFO	Set the Upper and Lower limit
+2022-08-10	13:26:48	INFO	Outlier values are quit high so, we use Capping instead of Trimming
+2022-08-10	13:26:48	INFO	Start the Capping Method
+2022-08-10	13:26:48	INFO	Training Data Outlier handling is complete
+2022-08-10	13:26:48	INFO	Select the important features and remove the unimportant features
+2022-08-10	13:26:48	INFO	Remove ['Outlet_Location_Type', 'Item_Visibility', 'Age_Outlet'] because these columns are not contributing much
+2022-08-10	13:26:48	INFO	Get the dataframe of best features
+2022-08-10	13:26:48	INFO	Training Feature Selection is done
+2022-08-10	13:26:48	INFO	Testing Feature selection is start
+2022-08-10	13:26:48	INFO	Outlier treatment of Item_Visibility column
+2022-08-10	13:26:48	INFO	Training Data Missing value imputation is start
+2022-08-10	13:26:48	INFO	Training Data encoding has been started
+2022-08-10	13:26:48	INFO	Impute the Missing values on temporary basis
+2022-08-10	13:26:48	INFO	Initialize the transformer with OneHotEncoding for training data
+2022-08-10	13:26:48	INFO	Apply the training data transformer on X_train and X_test
+2022-08-10	13:26:49	INFO	Making the Train and Test Array of training data seperately 
+2022-08-10	13:26:49	INFO	Join those train and test array into one complete array 
+2022-08-10	13:26:49	INFO	Make a dataframe with that complete array of encoded training data
+2022-08-10	13:26:49	INFO	Training Data Enconding is completed
+2022-08-10	13:26:49	INFO	Remove those temporary imputers from Item_Weight and Outlet_Size
+2022-08-10	13:26:49	INFO	Initalize KNN tranformer for missing value imputation
+2022-08-10	13:26:49	INFO	Apply the KNN tranformer on X_train and X_test
+2022-08-10	13:26:49	INFO	Make a new data frame for training data
+2022-08-10	13:26:49	INFO	Training Data Missing value imputation is complete
+2022-08-10	13:26:49	INFO	Getting the 25% and 75% value
+2022-08-10	13:26:49	INFO	Get the IQR Value
+2022-08-10	13:26:49	INFO	Set the Upper and Lower limit
+2022-08-10	13:26:49	INFO	Outlier values are quit high so, we use Capping instead of Trimming
+2022-08-10	13:26:49	INFO	Start the Capping Method
+2022-08-10	13:26:49	INFO	Training Data Outlier handling is complete
+2022-08-10	13:26:49	INFO	Select the important features and remove the unimportant features
+2022-08-10	13:26:49	INFO	Remove ['Outlet_Location_Type', 'Item_Visibility', 'Age_Outlet'] because these columns are not contributing much
+2022-08-10	13:26:49	INFO	Get the dataframe of best features
+2022-08-10	13:26:49	INFO	Testing Feature Selection is done
+2022-08-10	14:30:05	INFO	Training Feature selection is start
+2022-08-10	14:30:05	INFO	Outlier treatment of Item_Visibility column
+2022-08-10	14:30:05	INFO	Training Data Missing value imputation is start
+2022-08-10	14:30:05	INFO	Training Data encoding has been started
+2022-08-10	14:30:06	INFO	Impute the Missing values on temporary basis
+2022-08-10	14:30:06	INFO	Initialize the transformer with OneHotEncoding for training data
+2022-08-10	14:30:06	INFO	Apply the training data transformer on X_train and X_test
+2022-08-10	14:30:06	INFO	Making the Train and Test Array of training data seperately 
+2022-08-10	14:30:06	INFO	Join those train and test array into one complete array 
+2022-08-10	14:30:06	INFO	Make a dataframe with that complete array of encoded training data
+2022-08-10	14:30:06	INFO	Training Data Enconding is completed
+2022-08-10	14:30:06	INFO	Remove those temporary imputers from Item_Weight and Outlet_Size
+2022-08-10	14:30:06	INFO	Initalize KNN tranformer for missing value imputation
+2022-08-10	14:30:06	INFO	Apply the KNN tranformer on X_train and X_test
+2022-08-10	14:30:06	INFO	Make a new data frame for training data
+2022-08-10	14:30:06	INFO	Training Data Missing value imputation is complete
+2022-08-10	14:30:06	INFO	Getting the 25% and 75% value
+2022-08-10	14:30:06	INFO	Get the IQR Value
+2022-08-10	14:30:06	INFO	Set the Upper and Lower limit
+2022-08-10	14:30:06	INFO	Outlier values are quit high so, we use Capping instead of Trimming
+2022-08-10	14:30:06	INFO	Start the Capping Method
+2022-08-10	14:30:06	INFO	Training Data Outlier handling is complete
+2022-08-10	14:30:06	INFO	Select the important features and remove the unimportant features
+2022-08-10	14:30:06	INFO	Remove ['Outlet_Location_Type', 'Item_Visibility', 'Age_Outlet'] because these columns are not contributing much
+2022-08-10	14:30:06	INFO	Get the dataframe of best features
+2022-08-10	14:30:06	INFO	Training Feature Selection is done
+2022-08-10	14:30:06	INFO	Testing Feature selection is start
+2022-08-10	14:30:06	INFO	Outlier treatment of Item_Visibility column
+2022-08-10	14:30:06	INFO	Training Data Missing value imputation is start
+2022-08-10	14:30:06	INFO	Training Data encoding has been started
+2022-08-10	14:30:07	INFO	Impute the Missing values on temporary basis
+2022-08-10	14:30:07	INFO	Initialize the transformer with OneHotEncoding for training data
+2022-08-10	14:30:07	INFO	Apply the training data transformer on X_train and X_test
+2022-08-10	14:30:07	INFO	Making the Train and Test Array of training data seperately 
+2022-08-10	14:30:07	INFO	Join those train and test array into one complete array 
+2022-08-10	14:30:07	INFO	Make a dataframe with that complete array of encoded training data
+2022-08-10	14:30:07	INFO	Training Data Enconding is completed
+2022-08-10	14:30:07	INFO	Remove those temporary imputers from Item_Weight and Outlet_Size
+2022-08-10	14:30:07	INFO	Initalize KNN tranformer for missing value imputation
+2022-08-10	14:30:07	INFO	Apply the KNN tranformer on X_train and X_test
+2022-08-10	14:30:07	INFO	Make a new data frame for training data
+2022-08-10	14:30:07	INFO	Training Data Missing value imputation is complete
+2022-08-10	14:30:07	INFO	Getting the 25% and 75% value
+2022-08-10	14:30:07	INFO	Get the IQR Value
+2022-08-10	14:30:07	INFO	Set the Upper and Lower limit
+2022-08-10	14:30:07	INFO	Outlier values are quit high so, we use Capping instead of Trimming
+2022-08-10	14:30:07	INFO	Start the Capping Method
+2022-08-10	14:30:07	INFO	Training Data Outlier handling is complete
+2022-08-10	14:30:07	INFO	Select the important features and remove the unimportant features
+2022-08-10	14:30:07	INFO	Remove ['Outlet_Location_Type', 'Item_Visibility', 'Age_Outlet'] because these columns are not contributing much
+2022-08-10	14:30:07	INFO	Get the dataframe of best features
+2022-08-10	14:30:07	INFO	Testing Feature Selection is done
+2022-08-10	14:30:10	INFO	Training Feature selection is start
+2022-08-10	14:30:10	INFO	Outlier treatment of Item_Visibility column
+2022-08-10	14:30:10	INFO	Training Data Missing value imputation is start
+2022-08-10	14:30:10	INFO	Training Data encoding has been started
+2022-08-10	14:30:10	INFO	Impute the Missing values on temporary basis
+2022-08-10	14:30:10	INFO	Initialize the transformer with OneHotEncoding for training data
+2022-08-10	14:30:10	INFO	Apply the training data transformer on X_train and X_test
+2022-08-10	14:30:10	INFO	Making the Train and Test Array of training data seperately 
+2022-08-10	14:30:10	INFO	Join those train and test array into one complete array 
+2022-08-10	14:30:10	INFO	Make a dataframe with that complete array of encoded training data
+2022-08-10	14:30:10	INFO	Training Data Enconding is completed
+2022-08-10	14:30:10	INFO	Remove those temporary imputers from Item_Weight and Outlet_Size
+2022-08-10	14:30:10	INFO	Initalize KNN tranformer for missing value imputation
+2022-08-10	14:30:10	INFO	Apply the KNN tranformer on X_train and X_test
+2022-08-10	14:30:11	INFO	Make a new data frame for training data
+2022-08-10	14:30:11	INFO	Training Data Missing value imputation is complete
+2022-08-10	14:30:11	INFO	Getting the 25% and 75% value
+2022-08-10	14:30:11	INFO	Get the IQR Value
+2022-08-10	14:30:11	INFO	Set the Upper and Lower limit
+2022-08-10	14:30:11	INFO	Outlier values are quit high so, we use Capping instead of Trimming
+2022-08-10	14:30:11	INFO	Start the Capping Method
+2022-08-10	14:30:11	INFO	Training Data Outlier handling is complete
+2022-08-10	14:30:11	INFO	Select the important features and remove the unimportant features
+2022-08-10	14:30:11	INFO	Remove ['Outlet_Location_Type', 'Item_Visibility', 'Age_Outlet'] because these columns are not contributing much
+2022-08-10	14:30:11	INFO	Get the dataframe of best features
+2022-08-10	14:30:11	INFO	Training Feature Selection is done
+2022-08-10	14:30:11	INFO	Training Feature selection is start
+2022-08-10	14:30:11	INFO	Outlier treatment of Item_Visibility column
+2022-08-10	14:30:11	INFO	Training Data Missing value imputation is start
+2022-08-10	14:30:11	INFO	Training Data encoding has been started
+2022-08-10	14:30:11	INFO	Impute the Missing values on temporary basis
+2022-08-10	14:30:11	INFO	Initialize the transformer with OneHotEncoding for training data
+2022-08-10	14:30:11	INFO	Apply the training data transformer on X_train and X_test
+2022-08-10	14:30:11	INFO	Making the Train and Test Array of training data seperately 
+2022-08-10	14:30:11	INFO	Join those train and test array into one complete array 
+2022-08-10	14:30:11	INFO	Make a dataframe with that complete array of encoded training data
+2022-08-10	14:30:11	INFO	Training Data Enconding is completed
+2022-08-10	14:30:11	INFO	Remove those temporary imputers from Item_Weight and Outlet_Size
+2022-08-10	14:30:11	INFO	Initalize KNN tranformer for missing value imputation
+2022-08-10	14:30:11	INFO	Apply the KNN tranformer on X_train and X_test
+2022-08-10	14:30:11	INFO	Make a new data frame for training data
+2022-08-10	14:30:11	INFO	Training Data Missing value imputation is complete
+2022-08-10	14:30:11	INFO	Getting the 25% and 75% value
+2022-08-10	14:30:11	INFO	Get the IQR Value
+2022-08-10	14:30:11	INFO	Set the Upper and Lower limit
+2022-08-10	14:30:11	INFO	Outlier values are quit high so, we use Capping instead of Trimming
+2022-08-10	14:30:11	INFO	Start the Capping Method
+2022-08-10	14:30:11	INFO	Training Data Outlier handling is complete
+2022-08-10	14:30:11	INFO	Select the important features and remove the unimportant features
+2022-08-10	14:30:11	INFO	Remove ['Outlet_Location_Type', 'Item_Visibility', 'Age_Outlet'] because these columns are not contributing much
+2022-08-10	14:30:11	INFO	Get the dataframe of best features
+2022-08-10	14:30:11	INFO	Training Feature Selection is done
+2022-08-10	16:31:45	INFO	Training Feature selection is start
+2022-08-10	16:31:46	INFO	Outlier treatment of Item_Visibility column
+2022-08-10	16:31:46	INFO	Training Data Missing value imputation is start
+2022-08-10	16:31:46	INFO	Training Data encoding has been started
+2022-08-10	16:31:47	INFO	Impute the Missing values on temporary basis
+2022-08-10	16:31:47	INFO	Initialize the transformer with OneHotEncoding for training data
+2022-08-10	16:31:47	INFO	Apply the training data transformer on X_train and X_test
+2022-08-10	16:31:47	INFO	Making the Train and Test Array of training data seperately 
+2022-08-10	16:31:47	INFO	Join those train and test array into one complete array 
+2022-08-10	16:31:47	INFO	Make a dataframe with that complete array of encoded training data
+2022-08-10	16:31:47	INFO	Training Data Enconding is completed
+2022-08-10	16:31:47	INFO	Remove those temporary imputers from Item_Weight and Outlet_Size
+2022-08-10	16:31:47	INFO	Initalize KNN tranformer for missing value imputation
+2022-08-10	16:31:47	INFO	Apply the KNN tranformer on X_train and X_test
+2022-08-10	16:31:48	INFO	Make a new data frame for training data
+2022-08-10	16:31:48	INFO	Training Data Missing value imputation is complete
+2022-08-10	16:31:48	INFO	Getting the 25% and 75% value
+2022-08-10	16:31:48	INFO	Get the IQR Value
+2022-08-10	16:31:48	INFO	Set the Upper and Lower limit
+2022-08-10	16:31:48	INFO	Outlier values are quit high so, we use Capping instead of Trimming
+2022-08-10	16:31:48	INFO	Start the Capping Method
+2022-08-10	16:31:48	INFO	Training Data Outlier handling is complete
+2022-08-10	16:31:48	INFO	Select the important features and remove the unimportant features
+2022-08-10	16:31:48	INFO	Remove ['Outlet_Location_Type', 'Item_Visibility', 'Age_Outlet'] because these columns are not contributing much
+2022-08-10	16:31:48	INFO	Get the dataframe of best features
+2022-08-10	16:31:48	INFO	Training Feature Selection is done

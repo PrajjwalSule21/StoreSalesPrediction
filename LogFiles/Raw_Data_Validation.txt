@@ -1,0 +1,56 @@
+2022-08-10	13:26:47	INFO	Replacing null type values with NAN value
+2022-08-10	13:26:47	INFO	checking if there is column with whole missing values or not
+2022-08-10	13:26:47	INFO	Checking if the standard deviation is zero or not for numerical features 
+2022-08-10	13:26:47	INFO	Zero std deviation columns are removed
+2022-08-10	13:26:47	INFO	Whole missing value row is dropped
+2022-08-10	13:26:47	INFO	Replace null type values with NAN in numerical column
+2022-08-10	13:26:47	INFO	Replace null type values with NAN in categorical column
+2022-08-10	13:26:47	INFO	Replaced all null type values with NAN values
+2022-08-10	13:26:48	INFO	Replacing null type values with NAN value
+2022-08-10	13:26:48	INFO	checking if there is column with whole missing values or not
+2022-08-10	13:26:48	INFO	Checking if the standard deviation is zero or not for numerical features 
+2022-08-10	13:26:48	INFO	Zero std deviation columns are removed
+2022-08-10	13:26:48	INFO	Whole missing value row is dropped
+2022-08-10	13:26:48	INFO	Replace null type values with NAN in numerical column
+2022-08-10	13:26:48	INFO	Replace null type values with NAN in categorical column
+2022-08-10	13:26:48	INFO	Replaced all null type values with NAN values
+2022-08-10	14:30:05	INFO	Replacing null type values with NAN value
+2022-08-10	14:30:05	INFO	checking if there is column with whole missing values or not
+2022-08-10	14:30:05	INFO	Checking if the standard deviation is zero or not for numerical features 
+2022-08-10	14:30:05	INFO	Zero std deviation columns are removed
+2022-08-10	14:30:05	INFO	Whole missing value row is dropped
+2022-08-10	14:30:05	INFO	Replace null type values with NAN in numerical column
+2022-08-10	14:30:05	INFO	Replace null type values with NAN in categorical column
+2022-08-10	14:30:05	INFO	Replaced all null type values with NAN values
+2022-08-10	14:30:07	INFO	Replacing null type values with NAN value
+2022-08-10	14:30:07	INFO	checking if there is column with whole missing values or not
+2022-08-10	14:30:07	INFO	Checking if the standard deviation is zero or not for numerical features 
+2022-08-10	14:30:07	INFO	Zero std deviation columns are removed
+2022-08-10	14:30:07	INFO	Whole missing value row is dropped
+2022-08-10	14:30:07	INFO	Replace null type values with NAN in numerical column
+2022-08-10	14:30:07	INFO	Replace null type values with NAN in categorical column
+2022-08-10	14:30:07	INFO	Replaced all null type values with NAN values
+2022-08-10	14:30:10	INFO	Replacing null type values with NAN value
+2022-08-10	14:30:10	INFO	checking if there is column with whole missing values or not
+2022-08-10	14:30:10	INFO	Checking if the standard deviation is zero or not for numerical features 
+2022-08-10	14:30:10	INFO	Zero std deviation columns are removed
+2022-08-10	14:30:10	INFO	Whole missing value row is dropped
+2022-08-10	14:30:10	INFO	Replace null type values with NAN in numerical column
+2022-08-10	14:30:10	INFO	Replace null type values with NAN in categorical column
+2022-08-10	14:30:10	INFO	Replaced all null type values with NAN values
+2022-08-10	14:30:11	INFO	Replacing null type values with NAN value
+2022-08-10	14:30:11	INFO	checking if there is column with whole missing values or not
+2022-08-10	14:30:11	INFO	Checking if the standard deviation is zero or not for numerical features 
+2022-08-10	14:30:11	INFO	Zero std deviation columns are removed
+2022-08-10	14:30:11	INFO	Whole missing value row is dropped
+2022-08-10	14:30:11	INFO	Replace null type values with NAN in numerical column
+2022-08-10	14:30:11	INFO	Replace null type values with NAN in categorical column
+2022-08-10	14:30:11	INFO	Replaced all null type values with NAN values
+2022-08-10	16:31:46	INFO	Replacing null type values with NAN value
+2022-08-10	16:31:46	INFO	checking if there is column with whole missing values or not
+2022-08-10	16:31:46	INFO	Checking if the standard deviation is zero or not for numerical features 
+2022-08-10	16:31:46	INFO	Zero std deviation columns are removed
+2022-08-10	16:31:46	INFO	Whole missing value row is dropped
+2022-08-10	16:31:47	INFO	Replace null type values with NAN in numerical column
+2022-08-10	16:31:47	INFO	Replace null type values with NAN in categorical column
+2022-08-10	16:31:47	INFO	Replaced all null type values with NAN values
