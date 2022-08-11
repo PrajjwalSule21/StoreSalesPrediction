@@ -47,10 +47,9 @@ Use Machine Learning to make this solution as well with the help of Data Analysi
 - `Data Validation` to validate the raw data.
 - `Data Preprocessing` to preprocess the raw data for further use.
 - `Feature Engineering` to scaling the data and split that data for model.
-- `Preprocessing`, `Feature Engineering` and `Feature Selection` all these things done with the help of `EDA`
 - `Model Building` to build and select the best model.
 - Use `Logger` to log every activity.
-- `Notebook` which contains entire basic flow of project.
+- `Notebook` which contains analysis of data.
 - `app.py` make an Web-App and deploy the app on Heroku.
 
 
