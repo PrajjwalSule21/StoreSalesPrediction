@@ -38,7 +38,7 @@ Use Machine Learning to make this solution as well with the help of Data Analysi
 
 
 ## Demo
-
+https://storesalespre.herokuapp.com/
 
 ## Steps
 
